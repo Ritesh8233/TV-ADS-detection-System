@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Video files
+*.mp4
+*.avi
+*.mkv
+
+# Outputs
+outputs/
+*.xlsx
+
+# Environment files
+.env
